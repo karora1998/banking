@@ -1,0 +1,1 @@
+Built to teach the concepts of MySQL.
